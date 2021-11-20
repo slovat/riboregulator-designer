@@ -12,7 +12,7 @@ See "Using Riboregulator Designer" for more information.
 
 ### NUPACK 3.0 or later (3.1, 3.2)
 
-NUPACK is the primary technology being used, and can be downloaded from http://nupack.org/.
+NUPACK  can be downloaded from http://nupack.org/.
 
 As NUPACK only runs reliably on Linux, it is recommeneded that Windows users run via Windows Subsystem for Linux (WSL) 2, which we have verified to work without any problems. The documentation for WSL is here: https://docs.microsoft.com/en-us/windows/wsl/
 
