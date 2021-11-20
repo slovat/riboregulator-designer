@@ -25,8 +25,8 @@ The methods are demonstrated in a Jupyter notebook. Once you have python 3 insta
 
 ## References
 
-This code is modified from https://github.com/elanibal/NupackSensors.
+Parts of the code are based on https://github.com/elanibal/NupackSensors.
 
-The python wrappers are slightly modified from https://github.com/DNA-and-Natural-Algorithms-Group/multistrand to run in python 3 (see nupack folder).
+The python wrappers are modified from https://github.com/DNA-and-Natural-Algorithms-Group/multistrand to run in python 3 (see nupack folder).
 
 The scoring metrics for the designs were taken from  Ma, D. et al (Low-cost detection of norovirus using paper-based cell-free systems and synbody-based viral enrichment. Synth.  Biol.3, ysy018 (2018)), however, the scoring equation is for toehold switches and so a scoring equation for the the riboregulator 2.0 design is needed.  
