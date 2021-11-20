@@ -25,7 +25,7 @@ The methods are demonstrated in a Jupyter notebook. Once you have python 3 insta
 
 ## References
 
-Parts of the code are based on https://github.com/elanibal/NupackSensors.
+Large parts of the code are based on the code written in https://github.com/elanibal/NupackSensors.
 
 The python wrappers are modified from https://github.com/DNA-and-Natural-Algorithms-Group/multistrand to run in python 3 (see nupack folder).
 
