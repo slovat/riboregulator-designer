@@ -1,14 +1,14 @@
 
-NUPACK must be installed for riboregulator designer to work. NUPACK is easiest to install and runs the most reliably on linux. For windows users, use windows subsystem for 
-linux to install NUPACK (instructions for how to install windows subsystem for linux can be found here: https://docs.microsoft.com/en-us/windows/wsl/install). Do not try to 
-install NUPACK directly on windows, even NUPACK3.0.6 using Cygwin.
+NUPACK must be installed for riboregulator designer to work. NUPACK is easiest to install and runs the most reliably on linux. For windows users, use windows subsystem 
+for linux to install NUPACK (instructions for how to install windows subsystem for linux can be found here: https://docs.microsoft.com/en-us/windows/wsl/install). Do 
+not try to install NUPACK directly on windows, even NUPACK3.0.6 using Cygwin.
 
-We have built and tested Riboregulator Designer using NUPACK 3.2.2 which can be downloaded from: http://www.nupack.org/downloads (note you must first obtain a license through 
-this page before you can download NUPACK).
+We have built and tested Riboregulator Designer using NUPACK 3.2.2 which can be downloaded from: http://www.nupack.org/downloads (note you must first obtain a license 
+through this page before you can download NUPACK).
  
 Follow the NUPACK user guide instructions to install NUPACK (see documentation for NUPACK 3.2, installation instructions can be found on page 41).
 
-Riboregulator Designer has been written and tested in python 3. A python kernel in Jupyter Notebook can be used to run the .ipynb script, alternatively, python can be used from 
-the terminal to run the .py script (the .ipynb and .py are the same).
+Riboregulator Designer has been written and tested in python 3. A python kernel in Jupyter Notebook can be used to run the .ipynb script, alternatively, python can be 
+used from the terminal to run the .py script (the .ipynb and .py are the same).
 
 
