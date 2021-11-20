@@ -1,4 +1,3 @@
-
 NUPACK must be installed for riboregulator designer to work. NUPACK is easiest to install and runs the most reliably on linux. For windows users, use windows subsystem 
 for linux to install NUPACK (instructions for how to install windows subsystem for linux can be found here: https://docs.microsoft.com/en-us/windows/wsl/install). Do 
 not try to install NUPACK directly on windows, even NUPACK3.0.6 using Cygwin.
